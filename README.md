@@ -1,2 +1,2 @@
 # CyberSecurityProfessional
-My Google Cyber Security Professional Projects
+My Google CyberSecurity Professional Projects
